@@ -8,8 +8,11 @@ The purpose of this project is to analyze temperature trends in Oahu. My client 
 * The statistical summary shows the minimum in December being 56°F - although by looking at the mean and standard deviation, this temperature is an outlier.  If this low temperature occurs during the daytime, it could hinder business at the shop for the day. In comparison, the minimum in June is 64°F - also an outlier; however this is a bit warmer and with a low wind chill and high humidity, this may keep the surfers coming into the store. Much of the sales would depend on further analysis on different weather patterns — including precipitation, at what times are the temperatures generally lower, among other factors.
 
 For reference, the June summary statistics is shown below:
+
 ![june_summary_stats](https://github.com/shireenkahlon/surfs_up/blob/main/june_summary_stats.png)
+
 The image below represents the December summary statistics: 
+
 ![dec_summary_stats](https://github.com/shireenkahlon/surfs_up/blob/main/dec_summary_stats.png)
 ## Summary:
 The results of the queries completed are that both June and December present high enough temperatures for surfing. As discussed above, the range, in both June and December, are perfect weather to surf in. December weather could possibly be a bit chilly for ice cream but the shop would likely make profits year-round. However, temperatures are a small part of the weather. Another query that could be completed is precipitation. If it rains 300 days of the year in Oahu, for example, it might cause surfers to stay in resulting in poor sales for the shop. Another query would be to look through the months in the core of the summer and winter - such as July and January. This would give a better idea of how hot or cold it could get in Oahu. Finally, further data would need to be collected in order to query through to find the wind chill and humidity during the months of June and December to get an accurate representation of how warm or cold it may feel to people on the beach. A high wind chill could make 70°F weather feel like 60°F, whereas high humidity could make 73°F weather feel like 83°F. Additional analyses and collection of data would create a larger picture of whether the shop could succeed in Oahu or if finding another city in Hawaii or elsewhere would be ideal.
